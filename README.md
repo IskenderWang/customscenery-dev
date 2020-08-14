@@ -1,5 +1,7 @@
 # customscenery-dev
 
+Disregard China elevation data, moving that to its own repo
+
 Note: The USSS scenery is already built for FG by our friend M. Danilov (@mimino), but since I aim to include it in the custom scenery directory along with the other Russian airports, I included it along with the rest from the xplane gateway
 
 Polygons I know you're able to obtain, and all the OSM data and shapefiles you'll need can be found at these links:
